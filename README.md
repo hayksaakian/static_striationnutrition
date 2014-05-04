@@ -1,6 +1,6 @@
 Striation Nutrition website codebase
 ===========
-
+See the finished product at [StriationNutrition.com](http://striationnutrition.com)
 
 built with node-static
 ===========
